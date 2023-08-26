@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -11,27 +10,28 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Embedded Software Engineer
-- 👨‍💻 As a communication and electronics engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C programming, microcontrollers.
+
+# 💫 About Me:
+🏢 I'm an Embedded Software Engineer<br>👨‍💻 As a communication and electronics engineer, I'm constantly learning and exploring new technologies to improve my skills.<br>💬 Ask me about my experience with C programming, microcontrollers.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammed.elnefary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-elnefary-14532a178) 
 
-
-### Connect with Me :
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-elnefary-14532a178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-elnefary-14532a178/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohammed.elnefary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammed.elnefary/" height="30" width="40" /></a>
-</p>
-
-
-
-### 🛠 &nbsp;Skills and Experience
-![C](https://img.shields.io/badge/C_programming-00599C?style=for-the-badge&logo=c&logoColor=339933)&nbsp;
+# 💻 Skills:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
 ![PIC](https://img.shields.io/badge/PIC-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mhmd30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhmd30&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd30&layout=compact&theme=radical" alt="most used languages" />
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mhmd30&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
