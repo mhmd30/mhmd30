@@ -23,10 +23,6 @@
 ![AVR](https://img.shields.io/badge/AVR-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
 ![PIC](https://img.shields.io/badge/PIC-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhmd30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhmd30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
