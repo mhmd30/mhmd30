@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🏢 I'm an Embedded Software Engineer<br>👨‍💻 As a communication and electronics engineer, I'm constantly learning and exploring new technologies to improve my skills.<br>💬 Ask me about my experience with C programming, microcontrollers.
+🏢 I'm an Embedded Software Engineer<br>👨‍💻 As a communication and electronics engineer, I'm constantly learning and exploring new technologies to improve my skills.<br>💬 Ask me about my experience with C programming, microcontrollers, RTOS, Communication Protocols including (UART, SPI, I2C, CAN, and LIN).
 
 
 ## 🌐 Socials:
@@ -22,6 +22,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
 ![PIC](https://img.shields.io/badge/PIC-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
+![ARM](https://img.shields.io/badge/ARM-00599C?style=for-the-badge&logo=&logoColor=339933)&nbsp;
 
 
 ### ✍️ Random Quote
